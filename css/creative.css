@@ -429,5 +429,5 @@ header {
 }
 
 body {
-  font-family: cursive;
+  font-family: inherit;
 }
