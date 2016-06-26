@@ -43,9 +43,12 @@ p {
   line-height: 1.5;
   margin-bottom: 20px;
 }
+
+/*
 .bg-primary {
   background-color: #f05f40;
-}
+}*/
+
 .bg-dark {
   background-color: #222222;
   color: white;
